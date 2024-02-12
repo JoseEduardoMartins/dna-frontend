@@ -1,0 +1,37 @@
+.button {
+    width: 100%;
+    padding: 15px;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.button a {
+    color: #ffffff;
+}
+
+.active {
+    cursor: pointer;
+}
+
+.inactive {
+    cursor: not-allowed;
+}
+
+.theme_success {
+    background-color: #10b981;
+}
+
+.theme_success:hover {
+    background-color: #34d399;
+}
+
+.theme_delete {
+    background-color: #ad5555;
+}
+
+.theme_delete:hover {
+    background-color: #c21414;
+}
