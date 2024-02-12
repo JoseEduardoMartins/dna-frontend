@@ -1,4 +1,4 @@
-# Contact Management System - Front-end
+# DNA System - Front-end
 
 Este projeto é uma aplicação front-end desenvolvida em React para realizar uma consulta de DNS, verificar se um DNA é humano ou sigmano.
 
